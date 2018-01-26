@@ -1,5 +1,7 @@
 # Java API 版本的Vert.x Core 手册
 
+> 本开源书 forked from [Java API 版本的Vert.x Core 手册](https://github.com/quanke/vert-x-core-manual-for-java)，作者为 [quanke](https://github.com/quanke)，欢迎大家 star 原作者的 [repo](https://github.com/quanke/vert-x-core-manual-for-java)，以便获得最新更新，谢谢！
+
 - 欢迎关注http://quanke.name/
 - 交流群：`231419585`
 - 阅读地址：http://vertx.help/
